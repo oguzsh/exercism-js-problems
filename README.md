@@ -10,7 +10,7 @@
 - [x] [`resistor-color-duo`](resistor-color-duo)
 - [x] [`gigasecond`](gigasecond)
 - [x] [`rna-transcription`](rna-transcription)
-- [ ] [`space-age`](space-age)
+- [x] [`space-age`](space-age)
 - [ ] [`pangram`](pangram)
 - [ ] [`matrix`](matrix)
 - [ ] [`leap`](leap)
