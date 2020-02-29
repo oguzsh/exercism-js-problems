@@ -11,7 +11,7 @@
 - [x] [`gigasecond`](gigasecond)
 - [x] [`rna-transcription`](rna-transcription)
 - [x] [`space-age`](space-age)
-- [ ] [`pangram`](pangram)
+- [x] [`pangram`](pangram)
 - [ ] [`matrix`](matrix)
 - [ ] [`leap`](leap)
 - [ ] [`reverse-string`](reverse-string)
