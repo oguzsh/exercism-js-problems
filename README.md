@@ -14,7 +14,7 @@
 - [x] [`pangram`](pangram)
 - [x] [`matrix`](matrix)
 - [x] [`leap`](leap)
-- [ ] [`reverse-string`](reverse-string)
+- [x] [`reverse-string`](reverse-string)
 - [ ] [`collatz-conjecture`](collatz-conjecture)
 - [ ] [`triangle`](triangle)
 - [ ] [`etl`](etl)
