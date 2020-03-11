@@ -15,7 +15,7 @@
 - [x] [`matrix`](matrix)
 - [x] [`leap`](leap)
 - [x] [`reverse-string`](reverse-string)
-- [ ] [`collatz-conjecture`](collatz-conjecture)
+- [x] [`collatz-conjecture`](collatz-conjecture)
 - [ ] [`triangle`](triangle)
 - [ ] [`etl`](etl)
 - [ ] [`hamming`](hamming)
