@@ -17,7 +17,7 @@
 - [x] [`reverse-string`](reverse-string)
 - [x] [`collatz-conjecture`](collatz-conjecture)
 - [x] [`triangle`](triangle)
-- [ ] [`etl`](etl)
+- [x] [`etl`](etl)
 - [ ] [`hamming`](hamming)
 - [ ] [`rain-drops`](rain-drops)
 - [ ] [`word-count`](word-count)
