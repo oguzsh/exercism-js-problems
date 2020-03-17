@@ -18,7 +18,7 @@
 - [x] [`collatz-conjecture`](collatz-conjecture)
 - [x] [`triangle`](triangle)
 - [x] [`etl`](etl)
-- [ ] [`hamming`](hamming)
+- [x] [`hamming`](hamming)
 - [ ] [`rain-drops`](rain-drops)
 - [ ] [`word-count`](word-count)
 - [ ] [`difference-of-squares`](difference-of-squares)
