@@ -19,7 +19,7 @@
 - [x] [`triangle`](triangle)
 - [x] [`etl`](etl)
 - [x] [`hamming`](hamming)
-- [x] [`rain-drops`](rain-drops)
+- [x] [`rain-drops`](raindrops)
 - [ ] [`word-count`](word-count)
 - [ ] [`difference-of-squares`](difference-of-squares)
 - [ ] [`perfect-numbers`](perfect-numbers)
